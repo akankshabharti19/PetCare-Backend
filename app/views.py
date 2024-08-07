@@ -29,13 +29,8 @@ BREED_DESCRIPTIONS = {
     "airedale": "The largest of the terrier breeds, known for their intelligence, loyalty, and protective nature.",
     "akita": "A large and powerful breed from Japan, known for their loyalty and courage.",
     "appenzeller": "A medium-sized herding dog from Switzerland, known for their agility and versatility.",
-    "australian": {
-        "kelpie": "An intelligent and energetic herding dog known for its work ethic.",
-        "shepherd": "A versatile and intelligent herding dog, known for its loyalty and protective nature."
-    },
-    "bakharwal": {
-        "indian": "A livestock guardian dog from India, known for its strength and protective nature."
-    },
+    "australian": "A versatile and intelligent herding dog, known for its loyalty and protective nature.",
+    "bakharwal": "A livestock guardian dog from India, known for its strength and protective nature.",
     "basenji": "A small hunting dog from Africa, known for its independence and unique yodel-like bark.",
     "beagle": "A small scent hound, known for its friendly and curious nature.",
     "bluetick": "A breed of coonhound known for its hunting ability and distinctive blue mottled coat.",
@@ -44,80 +39,39 @@ BREED_DESCRIPTIONS = {
     "boxer": "A medium to large breed known for its playful, energetic, and loyal nature.",
     "brabancon": "A small breed with a distinctive face, known for its affectionate and alert nature.",
     "briard": "A large herding dog known for its loyalty, intelligence, and protective instincts.",
-    "buhund": {
-        "norwegian": "A versatile and energetic herding dog known for its agility and intelligence."
-    },
-    "bulldog": {
-        "boston": "A small breed known for its friendly and lively personality.",
-        "english": "A medium-sized breed known for its distinctive pushed-in nose and affectionate nature.",
-        "french": "A small breed with bat-like ears, known for its playful and affectionate demeanor."
-    },
-    "bullterrier": {
-        "staffordshire": "A medium-sized breed known for its strength, courage, and affectionate nature."
-    },
-    "cattledog": {
-        "australian": "An energetic and intelligent herding dog known for its stamina and work ethic."
-    },
+    "buhund": "A versatile and energetic herding dog known for its agility and intelligence.",
+    "bulldog": "A small breed known for its friendly and lively personality.",
+    "bullterrier": "A medium-sized breed known for its strength, courage, and affectionate nature.",
+    "cattledog": "An energetic and intelligent herding dog known for its stamina and work ethic.",
     "cavapoo": "A crossbreed between a Cavalier King Charles Spaniel and a Poodle, known for its friendly and affectionate nature.",
     "chihuahua": "The smallest dog breed, known for its bold and lively personality.",
-    "chippiparai": {
-        "indian": "A sighthound breed from India, known for its speed, endurance, and hunting skills."
-    },
+    "chippiparai":  "A sighthound breed from India, known for its speed, endurance, and hunting skills.",
     "chow": "A medium to large breed known for its lion-like mane and independent nature.",
     "clumber": "A large and heavy-boned spaniel known for its gentle and affectionate nature.",
     "cockapoo": "A crossbreed between a Cocker Spaniel and a Poodle, known for its friendly and affectionate personality.",
-    "collie": {
-        "border": "A highly intelligent and energetic herding dog known for its agility and work ethic."
-    },
+    "collie":  "A highly intelligent and energetic herding dog known for its agility and work ethic.",
     "coonhound": "A group of scent hounds known for their hunting ability and distinctive baying voice.",
-    "corgi": {
-        "cardigan": "A small herding dog with a long body and fox-like appearance, known for its loyalty and intelligence."
-    },
+    "corgi":  "A small herding dog with a long body and fox-like appearance, known for its loyalty and intelligence.",
     "cotondetulear": "A small breed from Madagascar known for its cotton-like coat and cheerful personality.",
     "dachshund": "A small breed with a long body and short legs, known for its bold and curious nature.",
     "dalmatian": "A medium-sized breed known for its distinctive spotted coat and energetic personality.",
-    "dane": {
-        "great": "One of the largest dog breeds, known for its gentle and friendly nature."
-    },
-    "danish": {
-        "swedish": "Refers to the Danish-Swedish Farmdog, a small and versatile breed known for its working ability and friendly nature."
-    },
-    "deerhound": {
-        "scottish": "A large sighthound known for its gentle and dignified nature."
-    },
+    "dane":  "One of the largest dog breeds, known for its gentle and friendly nature.",
+    "danish": "Refers to the Danish-Swedish Farmdog, a small and versatile breed known for its working ability and friendly nature.",
+    "deerhound":  "A large sighthound known for its gentle and dignified nature.",
     "dhole": "A wild canid from Asia, known for its social structure and hunting ability.",
     "dingo": "A wild dog from Australia, known for its independent and adaptable nature.",
     "doberman": "A large and powerful breed known for its loyalty, intelligence, and protective nature.",
-    "elkhound": {
-        "norwegian": "A medium-sized hunting dog known for its endurance, strength, and loyalty."
-    },
+    "elkhound": "A medium-sized hunting dog known for its endurance, strength, and loyalty.",
     "entlebucher": "A small herding dog from Switzerland, known for its agility and versatility.",
     "eskimo": "Refers to the American Eskimo Dog, a small to medium-sized breed known for its intelligence and playful nature.",
-    "finnish": {
-        "lapphund": "A medium-sized herding dog known for its friendly and gentle nature."
-    },
-    "frise": {
-        "bichon": "A small breed known for its cheerful and affectionate personality."
-    },
-    "gaddi": {
-        "indian": "A livestock guardian dog from India, known for its strength and protective nature."
-    },
+    "finnish":  "A medium-sized herding dog known for its friendly and gentle nature.",
+    "frise": "A small breed known for its cheerful and affectionate personality.",
+    "gaddi": "A livestock guardian dog from India, known for its strength and protective nature.",
     "germanshepherd": "A large and versatile breed known for its intelligence, loyalty, and working ability.",
-    "greyhound": {
-        "indian": "Refers to the Mudhol Hound, known for its speed and hunting ability.",
-        "italian": "A small and elegant sighthound known for its speed and affectionate nature."
-    },
+    "greyhound": "Refers to the Mudhol Hound, known for its speed and hunting ability.",
     "groenendael": "A Belgian Shepherd Dog known for its intelligence, agility, and versatility.",
     "havanese": "A small breed known for its friendly and playful nature.",
-    "hound": {
-        "afghan": "A large sighthound known for its elegance and independent nature.",
-        "basset": "A short-legged scent hound known for its laid-back and friendly personality.",
-        "blood": "A large scent hound known for its tracking ability and gentle nature.",
-        "english": "Refers to the English Foxhound, a large and energetic scent hound.",
-        "ibizan": "A medium-sized sighthound known for its agility and independent nature.",
-        "plott": "A breed of coonhound known for its hunting ability and tenacity.",
-        "walker": "Refers to the Treeing Walker Coonhound, known for its speed and tracking ability."
-    },
+    "hound": "A large sighthound known for its elegance and independent nature.",
     "husky": "A medium-sized working dog known for its endurance, strength, and friendly nature.",
     "keeshond": "A medium-sized breed known for its friendly and outgoing personality.",
     "kelpie": "An intelligent and energetic herding dog known for its work ethic.",
@@ -131,139 +85,52 @@ BREED_DESCRIPTIONS = {
     "malamute": "A large and powerful sled dog known for its endurance, strength, and friendly nature.",
     "malinois": "A Belgian Shepherd Dog known for its intelligence, agility, and working ability.",
     "maltese": "A small breed known for its playful and affectionate personality.",
-    "mastiff": {
-        "bull": "A large and powerful breed known for its strength and protective nature.",
-        "english": "One of the largest dog breeds, known for its gentle and calm demeanor.",
-        "indian": "Refers to breeds like the Bully Kutta, known for their strength and guarding ability.",
-        "tibetan": "A large and powerful breed known for its protective nature and distinctive appearance."
-    },
+    "mastiff": "A large and powerful breed known for its strength and protective nature.",
     "mexicanhairless": "A hairless breed known for its loyal and affectionate nature.",
     "mix": "Refers to mixed breed dogs, which can have a wide range of appearances and temperaments.",
-    "mountain": {
-        "bernese": "A large and friendly breed known for its gentle and calm nature.",
-        "swiss": "Refers to the Greater Swiss Mountain Dog, known for its strength and versatility."
-    },
-    "mudhol": {
-        "indian": "Also known as the Caravan Hound, known for its speed and hunting ability."
-    },
+    "mountain":  "A large and friendly breed known for its gentle and calm nature.",
+    "mudhol": "Also known as the Caravan Hound, known for its speed and hunting ability.",
     "newfoundland": "A large and gentle breed known for its strength, calm demeanor, and swimming ability.",
     "otterhound": "A large scent hound known for its distinctive appearance and hunting ability.",
-    "ovcharka": {
-        "caucasian": "A large and powerful livestock guardian dog known for its protective nature."
-    },
+    "ovcharka": "A large and powerful livestock guardian dog known for its protective nature.",
     "papillon": "A small breed known for its distinctive butterfly-like ears and friendly nature.",
-    "pariah": {
-        "indian": "Refers to the Indian Pariah Dog, known for its adaptability and intelligence."
-    },
+    "pariah":  "Refers to the Indian Pariah Dog, known for its adaptability and intelligence.",
     "pekinese": "A small breed known for its distinctive appearance and independent nature.",
     "pembroke": "Refers to the Pembroke Welsh Corgi, known for its intelligence and friendly nature.",
-    "pinscher": {
-        "miniature": "A small and energetic breed known for its fearless and lively personality."
-    },
+    "pinscher":  "A small and energetic breed known for its fearless and lively personality.",
     "pitbull": "A medium-sized breed known for its strength, loyalty, and affectionate nature.",
-    "pointer": {
-        "german": "A versatile hunting dog known for its intelligence and athleticism.",
-        "germanlonghair": "A breed of pointer known for its long coat and hunting ability."
-    },
+    "pointer":"A versatile hunting dog known for its intelligence and athleticism.",
     "pomeranian": "A small breed known for its fluffy coat and lively personality.",
-    "poodle": {
-        "medium": "A versatile and intelligent breed known for its friendly and trainable nature.",
-        "miniature": "A smaller version of the Poodle, known for its intelligence and playful personality.",
-        "standard": "The largest of the Poodle varieties, known for its intelligence and versatility.",
-        "toy": "The smallest of the Poodle varieties, known for its intelligence and friendly nature."
-    },
+    "poodle": "A versatile and intelligent breed known for its friendly and trainable nature.",
     "pug": "A small breed known for its distinctive wrinkled face and playful personality.",
     "puggle": "A crossbreed between a Pug and a Beagle, known for its friendly and playful nature.",
     "pyrenees": "Refers to the Great Pyrenees, a large and gentle livestock guardian dog.",
-    "rajapalayam": {
-        "indian": "A large and powerful breed from India, known for its guarding ability and loyalty."
-    },
+    "rajapalayam":  "A large and powerful breed from India, known for its guarding ability and loyalty.",
     "redbone": "Refers to the Redbone Coonhound, known for its hunting ability and friendly nature.",
-    "retriever": {
-        "chesapeake": "A large and versatile hunting dog known for its strength and endurance.",
-        "curly": "A retriever breed known for its distinctive curly coat and hunting ability.",
-        "flatcoated": "A retriever breed known for its friendly and outgoing personality.",
-        "golden": "A popular breed known for its friendly, intelligent, and loyal nature."
-    },
-    "ridgeback": {
-        "rhodesian": "A large and powerful breed known for its distinctive ridge of hair along its back and hunting ability."
-    },
+    "retriever": "A large and versatile hunting dog known for its strength and endurance.",
+    "ridgeback": "A large and powerful breed known for its distinctive ridge of hair along its back and hunting ability.",
     "rottweiler": "A large and powerful breed known for its strength, loyalty, and protective nature.",
     "saluki": "A medium-sized sighthound known for its speed, endurance, and gentle nature.",
     "samoyed": "A medium-sized working dog known for its friendly and outgoing personality.",
     "schipperke": "A small breed known for its lively and curious nature.",
-    "schnauzer": {
-        "giant": "A large and powerful breed known for its intelligence and protective nature.",
-        "miniature": "A smaller version of the Schnauzer, known for its friendly and alert personality."
-    },
-    "segugio": {
-        "italian": "A scent hound breed known for its hunting ability and friendly nature."
-    },
-    "setter": {
-        "english": "A medium to large breed known for its friendly and gentle nature.",
-        "gordon": "A large and powerful breed known for its hunting ability and loyalty.",
-        "irish": "A large and energetic breed known for its friendly and outgoing personality."
-    },
+    "schnauzer":  "A large and powerful breed known for its intelligence and protective nature.",
+    "segugio": "A scent hound breed known for its hunting ability and friendly nature.",
+    "setter": "A medium to large breed known for its friendly and gentle nature.",
     "sharpei": "A medium-sized breed known for its distinctive wrinkled skin and independent nature.",
-    "sheepdog": {
-        "english": "A large and shaggy herding dog known for its gentle and protective nature.",
-        "indian": "Refers to various herding breeds from India, known for their intelligence and versatility.",
-        "shetland": "A small and agile herding dog known for its intelligence and friendly nature."
-    },
+    "sheepdog": "A large and shaggy herding dog known for its gentle and protective nature.",
     "shiba": "A small and agile breed from Japan, known for its spirited and independent nature.",
     "shihtzu": "A small breed known for its distinctive appearance and friendly nature.",
-    "spaniel": {
-        "blenheim": "Refers to the Cavalier King Charles Spaniel, known for its friendly and affectionate nature.",
-        "brittany": "A versatile hunting dog known for its agility and friendly personality.",
-        "cocker": "A small and energetic breed known for its friendly and affectionate nature.",
-        "irish": "Refers to the Irish Water Spaniel, known for its distinctive coat and hunting ability.",
-        "japanese": "A small and elegant breed known for its friendly and loyal nature.",
-        "sussex": "A medium-sized spaniel known for its hunting ability and calm demeanor.",
-        "welsh": "Refers to the Welsh Springer Spaniel, known for its friendly and energetic nature."
-    },
-    "spitz": {
-        "indian": "Refers to the Indian Spitz, known for its friendly and playful nature.",
-        "japanese": "A small and fluffy breed known for its friendly and alert personality."
-    },
-    "springer": {
-        "english": "A medium-sized hunting dog known for its friendly and energetic personality."
-    },
+    "spaniel": "Refers to the Cavalier King Charles Spaniel, known for its friendly and affectionate nature.",
+    "spitz": "Refers to the Indian Spitz, known for its friendly and playful nature.",
+    "springer": "A medium-sized hunting dog known for its friendly and energetic personality.",
     "stbernard": "A large and gentle breed known for its strength and calm demeanor.",
-    "terrier": {
-        "american": "Refers to the American Pit Bull Terrier, known for its strength and loyalty.",
-        "australian": "A small and energetic breed known for its agility and friendly nature.",
-        "bedlington": "A small and distinctive breed known for its lamb-like appearance and friendly personality.",
-        "border": "A small and energetic breed known for its agility and friendly nature.",
-        "cairn": "A small and hardy breed known for its curiosity and lively personality.",
-        "dandie": "A small and distinctive breed known for its long body and friendly nature.",
-        "fox": "A small and energetic breed known for its agility and hunting ability.",
-        "irish": "A medium-sized and energetic breed known for its friendly and playful nature.",
-        "kerryblue": "A medium-sized breed known for its distinctive blue coat and friendly nature.",
-        "lakeland": "A small and energetic breed known for its agility and friendly nature.",
-        "norfolk": "A small and friendly breed known for its curiosity and lively personality.",
-        "norwich": "A small and friendly breed known for its curiosity and lively personality.",
-        "patterdale": "A small and energetic breed known for its hunting ability and tenacity.",
-        "russell": "Refers to the Jack Russell Terrier, known for its energetic and playful personality.",
-        "scottish": "A small and sturdy breed known for its distinctive appearance and independent nature.",
-        "sealyham": "A small and distinctive breed known for its friendly and alert personality.",
-        "silky": "A small and elegant breed known for its friendly and lively personality.",
-        "tibetan": "A small and sturdy breed known for its distinctive appearance and independent nature.",
-        "toy": "A small and lively breed known for its friendly and playful nature.",
-        "welsh": "A small and energetic breed known for its agility and friendly nature.",
-        "westhighland": "A small and sturdy breed known for its distinctive appearance and friendly nature.",
-        "wheaten": "A medium-sized breed known for its friendly and playful personality.",
-        "yorkshire": "A small and elegant breed known for its friendly and lively personality."
-    },
+    "terrier":  "Refers to the American Pit Bull Terrier, known for its strength and loyalty.",
     "tervuren": "A Belgian Shepherd Dog known for its intelligence, agility, and versatility.",
     "vizsla": "A medium-sized hunting dog known for its friendly and energetic personality.",
-    "waterdog": {
-        "spanish": "A medium-sized breed known for its distinctive curly coat and agility."
-    },
+    "waterdog": "A medium-sized breed known for its distinctive curly coat and agility.",
     "weimaraner": "A large and athletic breed known for its intelligence, energy, and versatility.",
     "whippet": "A medium-sized sighthound known for its speed, agility, and gentle nature.",
-    "wolfhound": {
-        "irish": "A large and gentle breed known for its strength, speed, and calm demeanor."
-    }
+    "wolfhound": "A large and gentle breed known for its strength, speed, and calm demeanor."
 
 }
 
