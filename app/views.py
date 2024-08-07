@@ -19,7 +19,7 @@ images_collection = db['breed_images']
 
 DOG_API_URL = "https://dog.ceo/api/breeds/list/all"
 DOG_IMAGE_API_URL = "https://dog.ceo/api/breed/{breed}/images/random"
-WEATHER_API_URL = "http://api.weatherapi.com/v1/current.json"
+WEATHER_API_URL = "https://api.weatherapi.com/v1/current.json"
 WEATHER_API_KEY = "88bb410e391a4615828130453242906"
 
 # Predefined breed descriptions
